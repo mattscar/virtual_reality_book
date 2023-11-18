@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Ch03_StringArgument</string>
+  <string name="msg">%2$s bought %1$d pens for $%3$.2f each.</string>
+</resources>

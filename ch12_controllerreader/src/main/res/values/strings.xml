@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch12_ControllerReader</string>
+    <string name="app_msg">App button state</string>
+    <string name="home_msg">Home button state</string>
+    <string name="click_msg">Click button state</string>
+    <string name="quaternion_msg">Quaternion components</string>
+    <string name="angle_msg">Angles</string>
+    <string name="connection_msg">Connection state</string>
+</resources>
